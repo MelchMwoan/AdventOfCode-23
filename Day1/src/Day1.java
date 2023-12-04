@@ -41,5 +41,6 @@ public class Day1 {
             sum += integer;
         }
         System.out.println(sum);
+        scanner.close();
     }
 }

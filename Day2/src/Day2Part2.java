@@ -38,5 +38,6 @@ public class Day2Part2 {
             sum += integer;
         }
         System.out.println("Total power count: " + sum);
+        scanner.close();
     }
 }

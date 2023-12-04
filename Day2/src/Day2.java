@@ -39,5 +39,6 @@ public class Day2 {
             sum -= integer;
         }
         System.out.println("Total ID count: " + sum);
+        scanner.close();
     }
 }
